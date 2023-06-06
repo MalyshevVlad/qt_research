@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/style/style.css</file>
+        <file>icons/add_task.svg</file>
+        <file>icons/check_box.svg</file>
+        <file>icons/check_box_click.svg</file>
+        <file>icons/close.svg</file>
+        <file>icons/close_hover.svg</file>
+    </qresource>
+</RCC>
